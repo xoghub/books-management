@@ -24,5 +24,5 @@ const Books = sequelize.define('Book', {
   timestamps: true
 });
 
-module.exports = Book;
+module.exports = Books;
 // export default Books;
